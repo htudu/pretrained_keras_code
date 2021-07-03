@@ -1,5 +1,6 @@
 # Notes
-- pip install "pillow!=8.3.0"
-- pip install keras tensorflow==2.2 or greater
 - python 3.7
-- pretrained ResNet50 has total of 1000 classes(labels)
+- conda create -n dcgan python=3.7
+- python -m pip install tensorflow=2.5
+- python -m pip install matplotlib=3.4
+- python -m pip install gdown=3.13
